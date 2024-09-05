@@ -1,0 +1,23 @@
+Tony:
+  name: Tony Kim
+  title: Director of Development @ SoundableHealth
+  url: https://github.com/tony
+  image_url: https://github.com/tony.png
+  page: true
+  socials:
+    x: tonykim
+    github: tonykim
+
+Paul:
+  name: Paul Lee
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/paul.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
